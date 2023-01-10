@@ -1,3 +1,4 @@
+![presidents_banner](https://github.com/thclough/inaugural_address_analysis/blob/main/presidents_banner.jpeg)
 # War Presidents Inaugural Addresses: NLP Analysis
 
 *By: Tighe Clough*
