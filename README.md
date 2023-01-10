@@ -16,7 +16,7 @@ These word clouds hint that presidents turn to the bedrock of America in troubli
 
 ## Sentiment Analysis
 
-The polarity and subjectivity of a president's sentences decide the framing of each situation.
+The polarity and subjectivity of a president's sentences decide the framing of each situation. Red dots represent a Republican president while blue dots represent a democratic president:
 
 ![sentiment_plots](https://github.com/thclough/inaugural_address_analysis/blob/main/output/sentiment_plots.png)
 
@@ -35,3 +35,33 @@ It is also important to factor in the sequentiality of such data and how the moo
 These graphs show sentiment over the course of each speech measured by sentence moving average. One notable finding is Wilson's uphill sentiment throughout his inaugural address. He works his way from a polarity score of 0 to around .25 by the end of the speech. He starts out by describing war on America's horizon but transitions to how the country will overcome this challenge.
 
 It seems that other presidents' speeches progress with waves of sentiment. Eisenhower's ends on a positive note. Both of the Democrats seem to start their speeches with a more negative tone than the Republicans. In terms of subjectivity, Lincoln and FDR's speeches have rapid declines in subjectivity towards their endings. Lincoln concludes with statements such as "You have no conflict without being yourselves the aggressors" and "We are not enemies, but Friends." FDR concludes with a short factual story about George Washington and statements about the spirit of America.
+
+## Vocab Similarity
+
+Word choice provides a different avenue to compare the addresses. Word choice affects the connotation of a message and reflects the unique style of each president.
+
+![vocab_heatmap](https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_heatmap.png)
+
+Surprisingly, FDR, George W. Bush, and Nixon constructed their addresses with similar vocabulary. Lincoln and Bush seem to have different speeches in terms of vocabulary. Lincoln used more complex vocabulary, while Bush opted for plainer speech.
+
+A sankey diagram is particularly useful in detailing the similarities and the degree of these similarities:
+
+![vocab_sankey](https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_sankey.png)
+
+As in the wordclouds, this sankey diagram shows common words associated with American values. These president's commonly use "people", "freedom", and "constitution". Freedom is not only used to apply to freedom of American people, but freedom of those affected by the foreign wars. The use of "democracy" is mostly limited to FDR's address while the word "voices" is more unique to Nixon's. These isolated words hint at the themes of each address. For example, Nixon uses the word "voices" to talk about the different viewpoints on the Vietnam war.
+
+## Structure
+
+Sentence length and punctuation affect the cadence of each speech.
+
+![sentence_boxplot](https://github.com/thclough/inaugural_address_analysis/blob/main/output/sentence_boxplot.png)
+
+Lincoln has particularly long sentences with his median sentence length around 20 words. Sometimes he delivers long flowery sentences to illustrate his points. FDR has the shortest sentences. FDR's paralytic illness (assumed to be polio) may have affected his breathing and physically limited the amount of words he could fit in a sentence.
+
+![punctuation_barchart](https://github.com/thclough/inaugural_address_analysis/blob/main/output/punctuation_barchart.png)
+
+Lincoln is asking many questions. Reading over his address, they seem to be mostly rhetorical questions arguing against secession from the Union. This graph also points to Lincoln have longer sentences with much fewer periods per 100 words than the other wartime presidents. FDR has many more periods and commas, implying more breaks in his speech. Nixon seems to draw off many different sources in his address with many direct quotes.
+
+## Conclusion
+
+Presidents do not follow a recipe when constructing their speeches; they each have their own unique style of deliverance. The style of each speech cannot be compared in complete isolation. The characteristics of each conflict affect structure and style. However, it can be said that each president stays true to the core theme of unity to stengthen support for American values. In current times of division, it is reassuring to know that in even the most severe episodes of history when American unity has shattered, is has always restabilized and persisted. 
