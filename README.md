@@ -17,7 +17,7 @@ These word clouds hint that presidents turn to the bedrock of America in troubli
 
 ## Sentiment Analysis
 
-The polarity and subjectivity of a president's sentences decide the framing of each situation. Red dots represent a Republican president while blue dots represent a democratic president:
+The polarity and subjectivity of a president's sentences decide the framing of each situation. Red dots represent a Republican president while blue dots represent a Democratic president:
 
 ![sentiment_plots](https://github.com/thclough/inaugural_address_analysis/blob/main/output/sentiment_plots.png)
 
