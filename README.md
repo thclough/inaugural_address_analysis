@@ -48,9 +48,7 @@ Surprisingly, FDR, George W. Bush, and Nixon constructed their addresses with si
 A sankey diagram is particularly useful in detailing the similarities and the degree of these similarities:
 
 <p align="center">
-  
-![vocab_sankey](https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_sankey.png)
-  
+<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_sankey.png"></img>
 </p>
 
 As in the wordclouds, this sankey diagram shows common words associated with American values. These president's commonly use "people", "freedom", and "constitution". Freedom is not only used to apply to freedom of American people, but freedom of those affected by the foreign wars. The use of "democracy" is mostly limited to FDR's address while the word "voices" is more unique to Nixon's. These isolated words hint at the themes of each address. For example, Nixon uses the word "voices" to talk about the different viewpoints on the Vietnam war.
@@ -59,13 +57,19 @@ As in the wordclouds, this sankey diagram shows common words associated with Ame
 
 Sentence length and punctuation affect the cadence of each speech.
 
-![sentence_boxplot](https://github.com/thclough/inaugural_address_analysis/blob/main/output/sentence_boxplot.png)
+
+<p align="center">
+<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/sentence_boxplot.png"></img>
+</p>
+
 
 Lincoln has particularly long sentences with his median sentence length around 20 words. Sometimes he delivers long flowery sentences to illustrate his points. FDR has the shortest sentences. FDR's paralytic illness (assumed to be polio) may have affected his breathing and physically limited the amount of words he could fit in a sentence.
 
 Punctuation provides further data on speech structure:
 
-![punctuation_barchart](https://github.com/thclough/inaugural_address_analysis/blob/main/output/punctuation_barchart.png)
+<p align="center">
+<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/punctuation_barchart.png"></img>
+</p>
 
 Lincoln is asking many questions. Reading over his address, they seem to be mostly rhetorical questions arguing against secession from the Union. This graph also points to Lincoln have longer sentences with much fewer periods per 100 words than the other wartime presidents. FDR has many more periods and commas, implying more breaks in his speech. Nixon seems to draw off many different sources in his address with many direct quotes.
 
