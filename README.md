@@ -27,7 +27,7 @@ Eisenhower's sentences seem to be particularly positive because he stressed the 
 
 In conclusion, all presidents are more positive when they are more subjective. Presidents want to convey a message of positivity, but they are also expected to address reality and any negative events it may contain. While balancing these requirements, they are strategically passionate when optimistic and tend to be more factual and direct when delivering bad news.
 
-It is also important to factor in the sequentiality of such data and how the mood of the speech changes through its course:
+It is also important to factor in the sequentiality of such data and how the mood of the speech changes through its course. Blue lines represent Democrats and red lines represent Repulicans.
 
 ![ma_pol](https://github.com/thclough/inaugural_address_analysis/blob/main/output/ma_pol.png)
 
