@@ -23,7 +23,7 @@ The polarity and subjectivity of a president's sentences determine the framing o
 
 All of these speeches seem to trend towards more positive. It would be morale-boosting to spread a positive message during wartime. The three earliest speeches seem to have more negative sentences than the latest three speeches. 
 
-Eisenhower's sentences seem to be particularly positive because he stressed the victory of light (American values) over dark in his speech, especially in the conclusion. Although Lincoln has many positive sentences, he also has some of the most negative ones. Lincoln use many sentences to condemn Southern states for seceding from the Union.
+Eisenhower's sentences seem to be particularly positive because he stressed the victory of light (American values) over dark in his speech, especially in the conclusion. Although Lincoln has many positive sentences, he also has some of the most negative ones. Lincoln uses many sentences to condemn Southern states for seceding from the Union.
 
 In conclusion, all presidents are more positive when they are more subjective. Presidents want to convey a message of positivity, but they are also expected to address reality and any negative events it may contain. While balancing these requirements, they are strategically passionate when optimistic and tend to be more factual and direct when delivering bad news.
 
