@@ -3,9 +3,9 @@
 
 *By: Tighe Clough*
 
-Inaugural addresses shape the expectation of the US populace. Such a speech "addresses" the entire nation regardless of difference in opinion. The weight of its messaging has expanded to the rest of the world in relation to America's developing importance in world affairs. This messaging goes so far as to shape reality. People often judge a president from their persona and public relation skill rather than scrutinize the fine details of their actions and executed policy. 
+Inaugural addresses shape the expectation of the US populace. Such a speech "addresses" the entire nation regardless of difference in opinion. The impact of its messaging has extended to the rest of the world in relation to America's developing importance in global affairs. This messaging goes so far as to shape reality. People often judge a president from their persona and public relation skill rather than scrutinize the fine details of their actions and executed policy. 
 
-During war, a president's words are particularly important because they serve to glue the country together to preserve American ideals or even the country itself. Therefore, it is of interest to compare how presidents purpose the inaugural address during war, or during the immediate lead-up to its formal declaration. I have chosen six addresses from such times: Lincoln's in 1861 (lead-up to Civil War), Wilson's in 1917 (WWI), Roosevelt's in 1941 (lead-up to WWII), 'Eisenhower's in 1953 (Korean War)', Nixon's in 1969 (Vietnam War)', and W Bush's in 2005 (War on Terror). This analysis leads to a deeper understanding of the general purpose of the inaugural address and the historical context of the selected addresses.
+During war, a president's words are particularly important because they serve to glue the country together to preserve American ideals or even the country itself. Therefore, it is of interest to compare how presidents purpose the inaugural address during war, or during the immediate lead-up to its formal declaration. I have chosen six addresses from such times: Lincoln's in 1861 (lead-up to Civil War), Wilson's in 1917 (WWI), Roosevelt's in 1941 (lead-up to WWII), Eisenhower's in 1953 (Korean War), Nixon's in 1969 (Vietnam War), and W Bush's in 2005 (War on Terror). This analysis leads to a deeper understanding of the general purpose of the inaugural address and the historical context of the selected addresses.
 
 ## Word Clouds
 
@@ -17,7 +17,7 @@ These word clouds hint that presidents turn to the bedrock of America in troubli
 
 ## Sentiment Analysis
 
-The polarity and subjectivity of a president's sentences decide the framing of each situation. Red dots represent a Republican president while blue dots represent a Democratic president:
+The polarity and subjectivity of a president's sentences determine the framing of each situation. Red dots represent a Republican president while blue dots represent a Democratic president:
 
 ![sentiment_plots](https://github.com/thclough/inaugural_address_analysis/blob/main/output/sentiment_plots.png)
 
@@ -27,7 +27,7 @@ Eisenhower's sentences seem to be particularly positive because he stressed the 
 
 In conclusion, all presidents are more positive when they are more subjective. Presidents want to convey a message of positivity, but they are also expected to address reality and any negative events it may contain. While balancing these requirements, they are strategically passionate when optimistic and tend to be more factual and direct when delivering bad news.
 
-It is also important to factor in the sequentiality of such data and how the mood of the speech changes through its course. Blue lines represent Democrats and red lines represent Repulicans.
+It is also important to factor in the sequentiality of such data and how the mood of the speech changes through its course. Blue lines represent Democrats and red lines represent Republicans.
 
 ![ma_pol](https://github.com/thclough/inaugural_address_analysis/blob/main/output/ma_pol.png)
 
